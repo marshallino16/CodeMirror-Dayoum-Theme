@@ -1,0 +1,30 @@
+﻿/*dayoum
+CodeMirror theme
+by @marshallino16 
+v1.0.0*/
+.cm-s-dayoum.CodeMirror{background:rgba(45,42,85,1) !important;}
+.cm-s-dayoum.CodeMirror{color:rgba(255,255,255,1) !important;}
+.cm-s-dayoum div.CodeMirror-selected{background:rgba(95,45,128,1) !important;}
+.cm-s-dayoum .CodeMirror-gutters{background:rgba(90,87,129,0) !important;}
+.cm-s-dayoum .CodeMirror-guttermarker{color:rgba(29,117,179,1) !important;}
+.cm-s-dayoum .CodeMirror-guttermarker-subtle{color:rgba(224,226,229,1) !important;}
+.cm-s-dayoum .CodeMirror-linenumber{color:rgba(224,226,229,1) !important;}
+.cm-s-dayoum .CodeMirror-cursor{border-color:rgba(46,56,60,1) !important;}
+.cm-s-dayoum span.cm-comment{color:rgba(180,101,245,1) !important;}
+.cm-s-dayoum span.cm-atom{color:rgba(227,185,83,1) !important;}
+.cm-s-dayoum span.cm-number{color:rgba(227,185,83,1) !important;}
+.cm-s-dayoum span.cm-property{color:rgba(228,102,148,1) !important;}
+.cm-s-dayoum span.cm-attribute{color:rgba(46,56,60,1) !important;}
+.cm-s-dayoum span.cm-keyword{color:rgba(179,247,160,1) !important;}
+.cm-s-dayoum span.cm-string{color:rgba(81,150,159,1) !important;}
+.cm-s-dayoum span.cm-string-2{color:rgba(46,56,60,1) !important;}
+.cm-s-dayoum span.cm-variable{color:rgba(247,159,23,1) !important;}
+.cm-s-dayoum span.cm-variable-2{color:rgba(46,56,60,1) !important;}
+.cm-s-dayoum span.cm-def{color:rgba(46,56,60,1) !important;}
+.cm-s-dayoum span.cm-bracket{color:rgba(46,56,60,1) !important;}
+.cm-s-dayoum span.cm-tag{color:rgba(156,51,40,1) !important;}
+.cm-s-dayoum span.cm-link{color:rgba(46,56,60,1) !important;}
+.cm-s-dayoum span.cm-error{background:rgba(0,0,0,0) !important;}
+.cm-s-dayoum span.cm-error{color:rgba(46,56,60,1) !important;}
+.cm-s-dayoum .CodeMirror-activeline-background{color:rgba(46,56,60,1) !important;}
+.cm-s-dayoum .CodeMirror-matchingbracket{color:rgba(0,255,0,1) !important;}
